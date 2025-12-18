@@ -1,5 +1,5 @@
 {
-  "name": "go-cut-policies",
+  "name": "go-cut-vendor-policies",
   "private": true,
   "version": "0.0.0",
   "type": "module",
